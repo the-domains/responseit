@@ -1,0 +1,28 @@
+name: responseit
+favicon: null
+layout_spectrum: 0.3260651824530214
+typography_spectrum: 0.035482633858919144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7343436144292355
+  lightness: 0.9656562351156026
+  saturation: 0.915981782367453
+  rhythmicContrast: 0.20202936115674675
+purpose: []
